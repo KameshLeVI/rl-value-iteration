@@ -79,7 +79,9 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 
 ## OUTPUT:
 ![Screenshot 2024-03-19 143809](https://github.com/KameshLeVI/rl-value-iteration/assets/120780633/de73c7ad-aade-4198-afef-3728fde96260)
+
 ![Screenshot 2024-03-19 143823](https://github.com/KameshLeVI/rl-value-iteration/assets/120780633/2e5d4c09-afa9-483f-8004-5cf94e0243da)
+
 ![Screenshot 2024-03-19 143831](https://github.com/KameshLeVI/rl-value-iteration/assets/120780633/6f7d4fe9-2872-4a7f-8f3b-307c200bc95f)
 
 ## RESULT:
